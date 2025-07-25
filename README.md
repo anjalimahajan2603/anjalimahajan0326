@@ -12,7 +12,7 @@
 - 🌟 Active *Open Source Contributor* (CircuitVerse, Google GirlScript Summer of Code)  
 - 🌱 Currently learning *C++ DSA & Advanced Java*  
 - 🎯 Goal: Become a *top open-source contributor & full-stack engineer* within 2 years  
-- ✨ Fun Fact: I love *UI/UX design* and creating unique content for [LaughsAndBlueprints](#).  
+  
 
 ---
 
